@@ -6992,10 +6992,10 @@ pkg-dir@^4.2.0:
   dependencies:
     find-up "^4.0.0"
 
-pod-install@0.2.2:
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/pod-install/-/pod-install-0.2.2.tgz#3375026ff1e317f87140b8f51ed955084d0c35e5"
-  integrity sha512-NgQpKiuWZo8mWU+SVxmrn+ARy9+fFYzW53ze6CDTo70u5Ie8AVSn7FqolDC/c7+N4/kQ1BldAnXEab6SNYA8xw==
+pod-install@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/pod-install/-/pod-install-1.0.1.tgz#ad477be97256848994556728c6e2db36ab5c0dd4"
+  integrity sha512-zCgMvzXX1ewXlgtyF4vegEEJBN/f/P8y7BGVb53gf96gaq/87hL5LD3q9aL+7pW5o2vRnCZOwGgk9II/Ijd03Q==
 
 possible-typed-array-names@^1.0.0:
   version "1.0.0"
